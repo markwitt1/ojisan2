@@ -1,9 +1,7 @@
+@import 'tailwindcss';
+
 :root {
   font-family: 'Trebuchet MS', Verdana, sans-serif;
-}
-
-* {
-  box-sizing: border-box;
 }
 
 body {
